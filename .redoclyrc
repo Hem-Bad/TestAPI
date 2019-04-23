@@ -1,0 +1,8 @@
+
+apiTitle: TestAPI
+splitSpec: true
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: Hem-Bad/TestAPI
+oasVersion: 3.0.0
